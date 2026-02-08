@@ -21,5 +21,4 @@ export const config = {
   matcher: ["/", "/profile", "/login", "/signup"],
 };
 
-
 //  Middleware
